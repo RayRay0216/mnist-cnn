@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.myenv/
+myenv/
+
+# OS / Editor settings
+.DS_Store
+.vscode/
+
+# Data & Weights
+data/
+*.pt
